@@ -8,7 +8,7 @@
 
 - 💬 Ask me about: **python, c# & html**
 
-- 📫 How to reach me: **julian.verwoerd@pantronic.eu**
+- 📫 How to reach me: **julian.verwoerd@pantronic.nl**
 
 - ⚡ Fun fact: **This probably isn't correct 😂**
 
